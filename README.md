@@ -69,11 +69,11 @@ This project aims to show how to extract business insights from relational datas
 
 ## Dataset / Tables Used
 
--customers
--orders
--order_items
--payments 
--products
+- customers
+- orders
+- order_items
+- payments
+- products
 
 ---
 
