@@ -64,6 +64,15 @@ This project aims to show how to extract business insights from relational datas
 - Applying window functions for ranking and time-based analysis
 - Translating business questions into analytical SQL queries
 - Performing customer behavior analysis and segmentation
+  
+---
+
+## Dataset / Tables Used
+-customers
+-orders
+-order_items
+-payments 
+-products
 
 ---
 
